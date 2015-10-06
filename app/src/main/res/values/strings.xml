@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Editor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="bold">B</string>
+    <string name="italic">I</string>
+    <string name="underline">U</string>
+    <string name="strike_through">ST</string>
+    <string name="header1">H1</string>
+    <string name="header2">H2</string>
+    <string name="header3">H3</string>
+    <string name="quotes">Q</string>
+    <string name="code">C</string>
+    <string name="unordered_list">ul</string>
+    <string name="ordered_list">ol</string>
+    <string name="link">lk</string>
+    <string name="horizontal_rule">hr</string>
+</resources>
